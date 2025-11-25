@@ -1,0 +1,74 @@
+# API Keys and Secrets
+*.key
+*.env
+.env
+.env.local
+.env.*.local
+config.json
+secrets.json
+api_keys.txt
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (optional - uncomment if needed)
+# *.csv
+# *.json
+# *.parquet
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+missing_addresses.csv
+clean_dataset.csv
+entity_to_addresses_dict.json
+address_to_entity_mapping.json
+
+
+wintermute_transactions_labeled.csv
+wintermute_transfers_search_default_2025-04-08.csv
+clean_dataset.csv
+defi_transactions.csv
+clean_dataset_enriched.csv
+clean_dataset_no_duplicates.csv

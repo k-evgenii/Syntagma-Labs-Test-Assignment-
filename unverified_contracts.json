@@ -1,0 +1,299 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000008",
+    "chain": "bsc",
+    "chain_id": 56,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x1bD2305258CD75B8B70D627D7A151F913258A4F4",
+    "chain": "bsc",
+    "chain_id": 56,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x2d5805A423D6CE771f06972Ad4499f120902631a",
+    "chain": "arbitrum_one",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 16982)"
+  },
+  {
+    "address": "0x2f67E298B4D397E40e71e0409628Ea49a2De69f4",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x319c60ddB83F1A2818076C717F5e49Bb6c28447D",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x33d816870f51F9a9018f37843d77a6F00624451f",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x3B55732F6D3997A7D44A041b8496e1A60712A35F",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 25896)"
+  },
+  {
+    "address": "0x51F1774541b2900bb70Ef183860E92d2c0C49D53",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x53BCdCc18f3bADA2CD749a72B28D55Eb7AbB3dD2",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 18686)"
+  },
+  {
+    "address": "0x55555535A287325D4A2a3da8C9F42F5A185D303c",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 10496)"
+  },
+  {
+    "address": "0x57481E6c0e518E0951cd30C2057d6EB7B9692D40",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x5Ca44dA6f7A1f671FEa02E4BC82980203A3CC047",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x6160006C4AA63Ad1cb8CC075d99127F9D8948BB5",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x63605b2c6b6714EB8780f205df55B71360E45555",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x64F2095CC11e4726078F4A64d4279c7e7fB7e6Ec",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 35504)"
+  },
+  {
+    "address": "0x77876CF08253732fF2CAE3aa075C93B6e92c3e7A",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x79056e21502BbD62918D12ccbB5D6653439Ba207",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 90)"
+  },
+  {
+    "address": "0x7DDE1aDb3E49D3A6859398Fc5715B2920Af5F9D0",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 90)"
+  },
+  {
+    "address": "0x84b3E08681bA968DB1F8Ce3f6b5cffe2b05eDa15",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x8afD8542540A2C5cE26D01Ac3AE6cC1e9C32568f",
+    "chain": "bsc",
+    "chain_id": 56,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x9B0cd9DfEeC32Ca5233c85a915372Db11c4d8D46",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0x9E2e1FCc7f6001545ab3502Aacb7553b53B7F646",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 3268)"
+  },
+  {
+    "address": "0xA0F408A000017007015e0F00320e470D00090a5B",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 5880)"
+  },
+  {
+    "address": "0xB521c06660C6e4Aab8a2350232670F534A74bB1d",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0xB8fc6Bf89E16e66b5FA9aA44b8393a588Cf1e77c",
+    "chain": "arbitrum_one",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 21570)"
+  },
+  {
+    "address": "0xDBF5448b21ce4F7D7e7b371B135Ca02272F4c080",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0xDbF58Cc17dA2d4b30361EC7E471e99eb586Dc080",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0xEc6FC9be2d5e505b40A2DF8B0622cD25333823db",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 27518)"
+  },
+  {
+    "address": "0xF1CeB16D94083606DB7F4D98400554f17125483B",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0xFcB51642a2a33EAFefD79c236480E295ccBD4A44",
+    "chain": "ethereum",
+    "chain_id": 1,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 10622)"
+  },
+  {
+    "address": "0xb1753ec09Bc5e49AB045067F56f83319484d2Dbb",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0xb521052D1399128B91d3e9bfdE28efd74a07bB1D",
+    "chain": "optimism",
+    "chain_id": 10,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  },
+  {
+    "address": "0xdAb84822345Fb4Fc1bf54861187402a434DaF35A",
+    "chain": "base",
+    "chain_id": 8453,
+    "entity": null,
+    "type": "Contract",
+    "status": "Not Found",
+    "description": "Smart contract (bytecode length: 126)"
+  }
+]

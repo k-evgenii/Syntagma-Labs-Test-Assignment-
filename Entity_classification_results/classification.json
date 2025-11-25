@@ -1,0 +1,418 @@
+{
+  "Wintermute": {
+    "is_defi": false,
+    "confidence": 0.735392132762813
+  },
+  "Uniswap": {
+    "is_defi": true,
+    "confidence": 0.95
+  },
+  "Binance": {
+    "is_defi": false,
+    "confidence": 0.95
+  },
+  "Token Account": {
+    "is_defi": false,
+    "confidence": 0.895153965624777
+  },
+  "Aerodrome Finance": {
+    "is_defi": true,
+    "confidence": 0.8672353029529674
+  },
+  "Coinbase": {
+    "is_defi": false,
+    "confidence": 0.95
+  },
+  "Wallet": {
+    "is_defi": false,
+    "confidence": 0.7838130621079327
+  },
+  "Orca": {
+    "is_defi": true,
+    "confidence": 0.7833498821443073
+  },
+  "Meteora (Prev. Mercurial)": {
+    "is_defi": true,
+    "confidence": 0.736704103146563
+  },
+  "CoW Protocol": {
+    "is_defi": true,
+    "confidence": 0.6407632054766939
+  },
+  "Fluid (Instadapp)": {
+    "is_defi": true,
+    "confidence": 0.6226612758983419
+  },
+  "WETH9": {
+    "is_defi": false,
+    "confidence": 0.78870044949532
+  },
+  "Kraken": {
+    "is_defi": false,
+    "confidence": 0.95
+  },
+  "PancakeSwap": {
+    "is_defi": true,
+    "confidence": 0.95
+  },
+  "Rizzolver (Wintermute)": {
+    "is_defi": false,
+    "confidence": 0.7243631947298056
+  },
+  "Raydium": {
+    "is_defi": true,
+    "confidence": 0.6722681161403529
+  },
+  "Bybit": {
+    "is_defi": false,
+    "confidence": 0.95
+  },
+  "Bullish.com": {
+    "is_defi": false,
+    "confidence": 0.7590411519277008
+  },
+  "Gate.io": {
+    "is_defi": false,
+    "confidence": 0.8177624376892758
+  },
+  "OKX": {
+    "is_defi": false,
+    "confidence": 0.95
+  },
+  "Phoenix": {
+    "is_defi": false,
+    "confidence": 0.506768912270176
+  },
+  "Crypto.com": {
+    "is_defi": false,
+    "confidence": 0.8361710108685213
+  },
+  "Velodrome Finance": {
+    "is_defi": true,
+    "confidence": 0.8152518379251652
+  },
+  "Bitfinex": {
+    "is_defi": false,
+    "confidence": 0.852216910678506
+  },
+  "Forwarder": {
+    "is_defi": false,
+    "confidence": 0.8715967241210685
+  },
+  "Bitstamp": {
+    "is_defi": false,
+    "confidence": 0.8467402521316504
+  },
+  "Curve.fi": {
+    "is_defi": true,
+    "confidence": 0.95
+  },
+  "0x": {
+    "is_defi": true,
+    "confidence": 0.6019893719381841
+  },
+  "Camelot": {
+    "is_defi": false,
+    "confidence": 0.5600775095812227
+  },
+  "Lifinity": {
+    "is_defi": false,
+    "confidence": 0.5457686954601592
+  },
+  "Sky (MakerDAO)": {
+    "is_defi": true,
+    "confidence": 0.5295221694269441
+  },
+  "Program Account": {
+    "is_defi": false,
+    "confidence": 0.9196680769257735
+  },
+  "ParaSwap": {
+    "is_defi": true,
+    "confidence": 0.8344748633906837
+  },
+  "MetaMask": {
+    "is_defi": false,
+    "confidence": 0.5303173644101089
+  },
+  "KuCoin": {
+    "is_defi": false,
+    "confidence": 0.95
+  },
+  "TransparentUpgradeableProxy": {
+    "is_defi": false,
+    "confidence": 0.9115261918065517
+  },
+  "Paxos": {
+    "is_defi": false,
+    "confidence": 0.6822503429616589
+  },
+  "@chuddybot": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "Ethena": {
+    "is_defi": true,
+    "confidence": 0.5510075460985235
+  },
+  "BitMart": {
+    "is_defi": false,
+    "confidence": 0.7074001413508024
+  },
+  "SushiSwap": {
+    "is_defi": true,
+    "confidence": 0.95
+  },
+  "Erick @EB7": {
+    "is_defi": false,
+    "confidence": 0.7664820170815345
+  },
+  "Backpack Exchange": {
+    "is_defi": false,
+    "confidence": 0.8156104966562743
+  },
+  "TradingVaultImplementation": {
+    "is_defi": false,
+    "confidence": 0.9115261918065517
+  },
+  "Bitvavo": {
+    "is_defi": false,
+    "confidence": 0.6834259936319479
+  },
+  "LiFi": {
+    "is_defi": true,
+    "confidence": 0.5104723732537296
+  },
+  "1inch": {
+    "is_defi": true,
+    "confidence": 0.7274915354574722
+  },
+  "ForwarderV4": {
+    "is_defi": false,
+    "confidence": 0.9022556839959095
+  },
+  "@bitcocks": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "Bebop": {
+    "is_defi": false,
+    "confidence": 0.5312442205411617
+  },
+  "Coinhako": {
+    "is_defi": false,
+    "confidence": 0.720039136163516
+  },
+  "@IshaanLlc": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "ShibaSwap": {
+    "is_defi": true,
+    "confidence": 0.6603455960660982
+  },
+  "@chris900eth": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "rsync-builder": {
+    "is_defi": false,
+    "confidence": 0.8095612822556716
+  },
+  "Kernel": {
+    "is_defi": false,
+    "confidence": 0.6946635589571659
+  },
+  "SimpleSpotExecutor": {
+    "is_defi": false,
+    "confidence": 0.8085059007188825
+  },
+  "The T Resolver (1inch Resolver)": {
+    "is_defi": true,
+    "confidence": 0.8644289426699069
+  },
+  "Rainbow.me": {
+    "is_defi": true,
+    "confidence": 0.5077835775590755
+  },
+  "Kyber Network": {
+    "is_defi": true,
+    "confidence": 0.6868277040004043
+  },
+  "@inicola86": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@imCryptoGoku": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@eiiriknft": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@yo_ji12345": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@RiceFarmerNFT": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "Jito": {
+    "is_defi": false,
+    "confidence": 0.6340217223193132
+  },
+  "JamSettlement": {
+    "is_defi": false,
+    "confidence": 0.7804169722501895
+  },
+  "GnosisSafeProxy": {
+    "is_defi": false,
+    "confidence": 0.9143471235980717
+  },
+  "@yiiii420": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@AnonPartTime": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "Arctic Bastion (1inch Resolver)": {
+    "is_defi": true,
+    "confidence": 0.8953764293803509
+  },
+  "@tonydanv": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "SmartOrderStrategy": {
+    "is_defi": false,
+    "confidence": 0.8085059007188825
+  },
+  "@thesoloistx": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@ec1ipse_sol": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "Unizen": {
+    "is_defi": false,
+    "confidence": 0.6328731511059202
+  },
+  "SimpleCallerWithPermit2": {
+    "is_defi": false,
+    "confidence": 0.8154289776419593
+  },
+  "@MrBigTimeCEO": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@Xaoxin_Ka": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@IceSapp45": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "Zerion": {
+    "is_defi": false,
+    "confidence": 0.6328731511059202
+  },
+  "@MatDefies": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "SplitWallet": {
+    "is_defi": false,
+    "confidence": 0.8962232953319419
+  },
+  "@itzTenzy_": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@averagecontract": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@larutadeclau": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@glatebois": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@TheCheckedBid33": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@shift_cipher": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@CipherNebulae": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@SolanaSeeker": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@BinarySaga_": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@SolsticeVault": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@CipherCraze55": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@NebulaVista99": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@CryptoChamp87": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "@quantumEVM18": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "SafeProxy": {
+    "is_defi": false,
+    "confidence": 0.8685734683071149
+  },
+  "Odos": {
+    "is_defi": true,
+    "confidence": 0.7588307638730444
+  },
+  "@TrueNFT33": {
+    "is_defi": false,
+    "confidence": 1.0
+  },
+  "DZapDiamond": {
+    "is_defi": false,
+    "confidence": 0.5624111441141806
+  },
+  "UniswapV2Pair": {
+    "is_defi": true,
+    "confidence": 0.95
+  },
+  "StandardToken": {
+    "is_defi": false,
+    "confidence": 0.9039017953658582
+  },
+  "Circle": {
+    "is_defi": false,
+    "confidence": 0.6696558465713742
+  }
+}
